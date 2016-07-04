@@ -1,0 +1,101 @@
+
+#container{
+  text-align: center;
+  font-family: helvetica;
+  color: red;
+}
+button{
+  background: orange;
+  font-family: helvetica;
+  font-size: 15px;
+  border: 0px;
+  color: green;
+}
+img{
+  margin: 35px auto;
+}
+#container2 {
+  position: relative;
+  background-color: gray;
+  height: 600px;
+  width: 600px;
+  margin: 50px auto;
+}
+#square1{
+  position: absolute;
+  left: 0px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square2{
+  position: absolute;
+  left: 200px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square3{
+  position: absolute;
+  left: 400px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square4{
+  position: absolute;
+  left: 0px;
+  top: 200px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square5{
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square6{
+  position: absolute;
+  left: 400px;
+  top: 200px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square7{
+  position: absolute;
+  left: 0px;
+  top: 400px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square8{
+  position: absolute;
+  left: 200px;
+  top: 400px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square9{
+  position: absolute;
+  left: 400px;
+  top: 400px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
