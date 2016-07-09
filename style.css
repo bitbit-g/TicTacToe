@@ -21,7 +21,7 @@ img{
   width: 600px;
   margin: 50px auto;
 }
-#square1{
+#square0{
   position: absolute;
   left: 0px;
   background-color: green;
@@ -29,7 +29,7 @@ img{
   width: 200px;
   border-radius: 50px;
 }
-#square2{
+#square1{
   position: absolute;
   left: 200px;
   background-color: green;
@@ -37,7 +37,7 @@ img{
   width: 200px;
   border-radius: 50px;
 }
-#square3{
+#square2{
   position: absolute;
   left: 400px;
   background-color: green;
@@ -45,9 +45,18 @@ img{
   width: 200px;
   border-radius: 50px;
 }
-#square4{
+#square3{
   position: absolute;
   left: 0px;
+  top: 200px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+#square4{
+  position: absolute;
+  left: 200px;
   top: 200px;
   background-color: green;
   height: 200px;
@@ -56,7 +65,7 @@ img{
 }
 #square5{
   position: absolute;
-  left: 200px;
+  left: 400px;
   top: 200px;
   background-color: green;
   height: 200px;
@@ -65,15 +74,6 @@ img{
 }
 #square6{
   position: absolute;
-  left: 400px;
-  top: 200px;
-  background-color: green;
-  height: 200px;
-  width: 200px;
-  border-radius: 50px;
-}
-#square7{
-  position: absolute;
   left: 0px;
   top: 400px;
   background-color: green;
@@ -81,7 +81,7 @@ img{
   width: 200px;
   border-radius: 50px;
 }
-#square8{
+#square7{
   position: absolute;
   left: 200px;
   top: 400px;
@@ -90,7 +90,7 @@ img{
   width: 200px;
   border-radius: 50px;
 }
-#square9{
+#square8{
   position: absolute;
   left: 400px;
   top: 400px;
